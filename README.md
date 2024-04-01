@@ -2,7 +2,7 @@
 
 
 ## AIM:
-To simulate and synthesis full adder using Xilinx ISE.
+To simulate and synthesis full decoder using Xilinx ISE.
 ## APPARATUS REQUIRED: 
 Xilinx 14.7 Spartan6 FPGA
 ## PROCEDURE: 
